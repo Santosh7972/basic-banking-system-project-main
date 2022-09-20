@@ -1,0 +1,188 @@
+.container-fluid {
+  padding: 7% 15% 0;
+}
+
+.body {
+  text-align: center;
+  font-family: "Cambria";
+  background-image: url("bck.jpg");
+}
+
+/* TitleSection */
+.big-heading {
+  font-size: 3.5rem;
+  text-align: center;
+  line-height: 1.5;
+  color: red;
+  font-weight: bolder;
+  font-family: "Cambria-Bold";
+}
+
+#title {
+  background-color: #053f69;
+  color: #fff;
+  padding-bottom: 7%;
+  
+}
+
+#title .container-fluid {
+  padding: 3% 15% 7%;
+}
+
+
+/* navigationsection */
+.navbar-heading {
+  font-size: 1.5rem;
+  font-family: "Times New Roman";
+  padding: 0 0;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.nav-item {
+  color: #fff;
+  padding: 0 18px;
+}
+
+.description {
+  font-size: 2.5rem;
+  font-family: "Cambria";
+  text-align: left;
+  padding-bottom: 7%;
+}
+
+.m-img {
+  right: 30%;
+  width: 80%
+}
+
+/* testimonialsection */
+#testimonials {
+  text-align: center;
+  z-index: 1;
+}
+.btn:not(:disabled):not(.disabled) {
+  cursor: pointer;
+  float:left;
+  margin-left: 165px;
+}
+
+.testimonial-text {
+  font-size: 2.5rem;
+  padding-bottom: 7%;
+  line-height: 1.5;
+  color: rgb(99, 9, 245);
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.testimonial-image {
+  width: 110%;
+  float: none;
+}
+
+/* #press {
+  padding: 100px color: white;
+  text-align: center;
+  padding-bottom: 7%;
+} */
+
+.press-logo {
+  width: 10%;
+  margin: 20px 15px 10px;
+}
+
+/* footerSection */
+#footer {
+  background-color: #2d5ba2;
+  padding: 7% 15%;
+  color: #fff;
+  text-align: center;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+/* Customer-service */
+/*feature-box section*/
+#features {
+  padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+  text-align: center;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+}
+
+.feature-box {
+  padding: 5%;
+}
+
+.icon {
+  color: #4B0082;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #4B0082;
+}
+
+img{
+  float:right;
+}
+
+#t1 {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 160%;
+  margin-top: 64px;
+  margin-left: -89px;
+  border:2px solid black;
+}
+
+#img2{
+   float: right;
+    width: 215px;
+    margin-right: -342px;
+    
+}
+
+#t1 td, #t1 th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#t1 tr:nth-child(even){background-color: #f2f2f2;}
+
+#t1 tr:hover {background-color: #ddd;}
+
+#t1 th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+}
+
+#list{
+  text-align: center;
+  font-size: medium;
+  color: #6cd268;
+  text-decoration: none;
+  padding-top: 54px;
+  list-style-type: none;
+  
+}
+#list li{
+  padding-top: 15px;
+  margin-top:5px;
+}
+
+
